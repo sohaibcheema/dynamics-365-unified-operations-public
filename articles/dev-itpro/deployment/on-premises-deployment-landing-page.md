@@ -36,6 +36,12 @@ ms.dyn365.ops.version: Platform update 8
 You can deploy Microsoft Dynamics 365 for Finance and Operations (on-premises). When you choose an on-premises deployment type, the system requirements, hardware sizing, and functionality differ from a cloud deployment. This topic provides links to content that contains information specific to on-premises deployments.
 
 ## Get started
+  /*Comments start
+  You may want to updated/remove this next lines saying what new in 7.2; With release of 7.3 yesterday, i think there is need of an update here.
+  End comment*/ 
+  /*References
+  https://blogs.msdn.microsoft.com/lcs/2018/04/12/dynamics-365-for-finance-and-operations-7-3-is-now-available-for-on-premises-deployment/
+  End refernces*/
 - [What's new or changed in on-premises deployments of Dynamics 365 for Finance and Operations, Enterprise edition 7.2 with platform update 12 (March 2018)](../../fin-and-ops/get-started/whats-new-LBD-PU12-App72.md)
 - [Dynamics 365 for Finance and Operations (on-premises) overview](on-premises-overview.md)
 - [Planning for your on-premises deployment](plan-onprem-deployment.md)
